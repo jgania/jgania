@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jgania
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything and everything related to software development
+- 👀 I’m interested in Software Development and Data Analytics
+- 💞️ I’m looking to collaborate on anything and everything related to Software Development and Data Analytics.
 - 📫 How to reach me Jordan.Gania@gmail.com
 
 <!---
